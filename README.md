@@ -43,7 +43,6 @@ The project follows a **modern Lakehouse architecture** on **Azure Databricks**,
 
 ```plaintext
 ├── src/
-│   ├── data/
 │   ├── databricks/
 │   │   └── notebooks/
 │   └── powerbi/
