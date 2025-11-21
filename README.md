@@ -1,4 +1,4 @@
-# ecommerce-clickstream-data-engineering-project
+# Ecommerce-Clickstream-Data-Engineering-Project
 
 ## Project Overview
 
